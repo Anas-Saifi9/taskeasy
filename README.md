@@ -91,6 +91,4 @@ taskEasy/
 └── README.md
 ```
 
-## License
 
-MIT © 2025 Anas Saifi
